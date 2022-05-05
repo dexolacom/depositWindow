@@ -15,6 +15,7 @@
     }
   },
   "rules": {
+    "@typescript-eslint/ban-ts-comment": "off",
     "react/prop-types": ["off"],
     "max-lines-per-function": ["warn", 40],
     "no-console": "warn",
